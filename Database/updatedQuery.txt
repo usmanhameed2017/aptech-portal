@@ -1,0 +1,3 @@
+ALTER TABLE payments
+ADD counselor_id int
+AFTER INPUTTER;

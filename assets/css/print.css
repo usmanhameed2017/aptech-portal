@@ -1,0 +1,11 @@
+@media print { 
+        body { 
+       margin:none !important;
+       
+    } 
+    
+   } #printButton{
+    display:none !important;
+}#backButton{
+    display:none !important;
+}
