@@ -1,0 +1,38 @@
+# Ignore node_modules (if you're using Node.js tools)
+node_modules/
+Database
+
+# Ignore Composer dependencies
+/vendor/
+
+# Ignore environment configuration
+.env
+
+# Ignore IDE/editor folders
+.idea/
+.vscode/
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore log files
+*.log
+
+# Ignore cache and temporary files
+cache/
+tmp/
+*.tmp
+
+# Ignore uploaded files (optional)
+uploads/
+*.bak
+
+# Ignore PHPUnit test results
+.phpunit.result.cache
+
+# Ignore composer.lock (optional, depends on workflow)
+composer.lock
+
+# Ignore npm debug log
+npm-debug.log*
